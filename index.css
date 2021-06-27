@@ -104,7 +104,7 @@ body{
 }
 
 .discord-1{
-    background-image: url("discord.png");
+    background-image: url("../img/discord.png");
     background-position-x: 10px;
     background-position-y: -520px;
     color: rgb(58, 58, 58);
@@ -122,21 +122,22 @@ body{
 }
 
 .discord-2{
-    background-image: url("discord.png");
+    background-image: url("../img/discord.png");
     background-position-x: -260px;
-    background-position-y: -1000px;
+    background-position-y: -1300px;
     color: rgb(58, 58, 58);
     font-size: 40px;
     text-decoration: none;
     margin-top: 10%;
     margin-left: auto;
-    padding: 130px;
+    padding: 190px;
     border: 5px solid rgb(37, 37, 37, 23);
     border-radius: 10px;
     flex: 1;
     order: 2;
     
 }
+
 
 .discord-f{
     display: flex;
